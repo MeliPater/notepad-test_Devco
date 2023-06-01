@@ -5,7 +5,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.onlinenotepad.tasks.abrirPagina;
-import net.onlinenotepad.tasks.escribirNota;
+import net.onlinenotepad.tasks.escoge;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
